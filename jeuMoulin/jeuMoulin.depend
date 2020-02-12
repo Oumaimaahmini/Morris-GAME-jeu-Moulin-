@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1580427101 source:c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+	"interface.h"
+	<time.h>
+
+1580666243 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\fonction.h
+
+1580888881 source:c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\fonction.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1580614750 source:c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<math.h>
+	<windows.h>
+
+1580425426 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\interface.h
+
+1579925674 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<time.h>
+
+1580166838 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\fonction2.h
+
+1580166356 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\fonction2.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	"fonction2.h"
+
+1580166912 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\fonction.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
+1580425555 c:\users\dell\desktop\oumaima\projettp\moulin\jeumoulin\file.h
+
